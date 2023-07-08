@@ -1,4 +1,4 @@
-**Features:** \
+**Features:** 
 Original description from [here](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset). \
 
 `"Administrative"`, `"Administrative Duration"`, `"Informational"`, `"Informational Duration"`, `"Product Related"` and `"Product Related Duration"` represent the number of different types of pages visited by the visitor in that session and total time spent in each of these page categories. The values of these features are derived from the URL information of the pages visited by the user and updated in real time when a user takes an action, e.g. moving from one page to another.  
