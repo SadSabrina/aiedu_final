@@ -1,7 +1,6 @@
-import pandas as pd
+import pandasзн as pd
 import numpy as np
 import pickle
-
 from sklearn.naive_bayes import GaussianNB
 from sklearn.model_selection import train_test_split, cross_validate
 from sklearn.metrics import classification_report, balanced_accuracy_score

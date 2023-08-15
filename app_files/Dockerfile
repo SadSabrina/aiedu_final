@@ -1,4 +1,4 @@
-FROM python:3.10-slim-buster
+ыFROM python:3.10-slim-buster
 
 RUN pip install explainerdashboard
 RUN pip install dill
