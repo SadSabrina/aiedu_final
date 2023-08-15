@@ -1,4 +1,4 @@
-import pandasзн as pd
+import pandas as pd
 import numpy as np
 import pickle
 from sklearn.naive_bayes import GaussianNB
